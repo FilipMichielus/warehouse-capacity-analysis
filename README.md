@@ -219,6 +219,18 @@ This is particularly useful because a storage area with a large number of locati
 
 ---
 
+## Visualizations
+
+### Number of Locations per Storage
+
+![Number of Locations per Storage](images/locations_per_storage.png)
+
+### Filling Rate per Storage
+
+![Filling Rate per Storage](images/filling_rate_per_storage.png)
+
+---
+
 ## Technologies
 
 The project uses:
@@ -230,6 +242,7 @@ The project uses:
 * **SQL**
 * **Jupyter Notebook**
 * **SQLAlchemy**
+* **MySQL Connector/Python**
 * **python-dotenv**
 
 ---
