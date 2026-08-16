@@ -128,4 +128,3 @@ print(f"Inserted {cursor.rowcount} rows.")
 
 cursor.close()
 connection.close()
-
