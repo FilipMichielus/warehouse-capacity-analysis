@@ -221,13 +221,17 @@ This is particularly useful because a storage area with a large number of locati
 
 ## Visualizations
 
-### Number of Locations per Storage
+### Number of Locations per Store
 
-![Number of Locations per Storage](images/locations_per_storage.png)
+![Number of Locations per Store](images/locations_per_store.png)
 
-### Filling Rate per Storage
+### Packing Types per Building
 
-![Filling Rate per Storage](images/filling_rate_per_storage.png)
+![Packing Types per Building](images/packing_types_per_building.png)
+
+### Filling Rate per Store
+
+![Filling Rate per Store](images/filling_rate_per_store.png)
 
 ---
 
