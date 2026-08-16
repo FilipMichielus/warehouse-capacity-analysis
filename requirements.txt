@@ -1,0 +1,7 @@
+pandas
+matplotlib
+mysql-connector-python
+python-dotenv
+sqlalchemy
+pymysql
+jupyter
